@@ -3,6 +3,12 @@ Vue开发中需要的技术栈
 
 * npm
 
+```
+  npm install
+  npm run dev
+  npm run build
+```
+
 
 安装扩展包、测试、打包等功能
 
